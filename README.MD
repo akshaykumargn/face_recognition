@@ -1,11 +1,13 @@
+# Face Recognition
+
 In this data science and machine learning project, we classify celebreties images. We restrict classification to only 6 people,
 
-leonardo dicaprio
-Dwayne Johnson
-Sandra Bullock
-Tom Cruise
-Shah Rukh Khan
-Angelina Jolie
+## Tom Cruise
+## Priyanka Chopra
+## Dwayne Johnson
+## Sandra Bullock
+## Shah Rukh Khan
+## Angelina Jolie
 
 Here is the folder structure,
 
